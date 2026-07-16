@@ -158,19 +158,6 @@
 </p>
 
 ---
-
-# 📚 Currently Learning
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔥 Deep Learning
-- ☁️ Cloud Computing
-- 🐳 Docker
-- ⚙️ DevOps
-- 🏗️ System Design
-- 🚀 Kubernetes
-
----
 # 🚀 Featured Projects
 
 ## 🌱 Smart Irrigation System using IoT
@@ -249,7 +236,7 @@ Responsive and scalable full-stack applications with secure authentication, data
 - ✅ Cloud Computing Fundamentals
 - ✅ Machine Learning Basics
 
-> *Add your official certification names and issuers here as you earn them.*
+>
 
 ---
 
